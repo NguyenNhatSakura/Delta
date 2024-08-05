@@ -1,3 +1,15 @@
+## 🎮 Support Executor
+
+- Ro Exec
+- Solara
+- Wave
+- Delta
+- Arcus X
+- Vega X
+- Code X
+- Apple Wave
+- Fluxus
+
 <img src="Assets/banner.jpg" alt="Banner">
 
 ## ⚡ Features
@@ -80,7 +92,11 @@ local MainTab = DeltaGui:MakeTab("Main")
 --[[
 DeltaLib:MakeTab(<string>)
 ]]
-```## Creating a Section
+```
+
+
+
+## Creating a Section
 ```lua
 local Section = MainTab:Section({
     ["Title"] = "Local Player",
