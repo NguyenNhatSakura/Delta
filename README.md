@@ -159,6 +159,7 @@ Paragraph:Set({
 ["Title"] = <string>,
 ["Content"] = <string>
 ]]
+```
 
 
 ## Button
