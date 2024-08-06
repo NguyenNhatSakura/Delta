@@ -2272,4 +2272,5 @@ function DeltaLib:Start(GuiConfig)
     end
     return Tabs
 end
+warn("Loading Delta Done!")
 return DeltaLib
