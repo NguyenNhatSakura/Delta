@@ -25,7 +25,7 @@
 
 ## Booting the Library
 ```lua
-local DeltaLib = loadstring(game:HttpGet("hi"))()
+local DeltaLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/NguyenNhatDino/Delta/main/src/main.lua"))()
 ```
 
 
