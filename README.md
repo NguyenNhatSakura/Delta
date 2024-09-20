@@ -1,14 +1,3 @@
-## 🎮 Support Executor
-
-- Ro Exec
-- Solara
-- Wave
-- Delta
-- Arcus X
-- Vega X
-- Code X
-- Apple Wave
-- Fluxus
 
 <img src="Assets/banner.jpg" alt="Banner">
 
